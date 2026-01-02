@@ -1,1 +1,1 @@
-# FRetail_Databricks_workspace
+# Retail_Databricks_workspace
